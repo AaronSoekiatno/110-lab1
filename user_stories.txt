@@ -1,0 +1,5 @@
+1. As a player, I want to choose how many lemonades to make and change the pricing to simulate how much money I'll earn every day
+
+2. As a player, I want to visualize the financial details of my lemonade business daily
+
+3. As a player, I want to choose my spending on advertising signs so I can explore how to maximize profit
